@@ -1,0 +1,23 @@
+{
+    "name": "jquery.uzoom",
+    "version": "0.1.0",
+    "main": "dist/uzoom.jquery.js",
+    "license": "https://github.com/morulus/jquery.uzoom/blob/master/LICENSE.md",
+    "ignore": [
+    ],
+    "dependencies": {
+        "jquery": ">=1.7.1",
+        "jquery.tie": "latest"
+    },
+    "devDependencies": {
+    },
+    "homepage": "https://github.com/morulus/jquery.uzoom",
+    "keywords": [
+        "jquery"
+    ], 
+    "author": {
+        "name": "Vladimir Kalmykov",
+        "web": "https://github.com/morulus"
+    },
+    "license": "MIT",
+}
