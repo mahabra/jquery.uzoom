@@ -1,20 +1,20 @@
-uzoom
+Ultimate zoom
 ======
 
 jQuery Plugin for zooming images
 
-# About
+## About
 
 Plugin for zoom effect on mouse hover.
 
 __Attention__: it's alpha test version.
 
-# Install
+## Install
 ```npm
 $ bower install uzoom
 ```
 
-# Usage
+## Usage
 Use jQuery selector to find your images, then call `.uzoom([options])` plugin:
 ```javascript
 $(".zoomer").uzoom();
@@ -37,17 +37,20 @@ __Options:__
 - "hideCursor" - (bool) Hide cursor if it possible
 - "cursor" - (string) style for cursor (default, pointer, zoom-in and others...)
 
-# Browsers tests
+## Browsers tests
 - Chrome 37.0.2062.124 m
 - Firefox 32.0.3 (issue exists)
 - Safari 5.1.7
 - IE 9
 
-# Not supported browsers
+## Not supported browsers
 IE <=8
 
-# Issues
+## Issues
 - Some bug in firefox with page scrollbar when mouse over image
 
-# Author
+## Depends
+jquery.tie
+
+## Author
 Performed by [@morulus](https://github.com/morulus)
