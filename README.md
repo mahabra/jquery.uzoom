@@ -3,9 +3,7 @@ Ultimate zoom
 
 jQuery Plugin for zooming images
 
-## About
-
-Plugin for zoom effect on mouse hover.
+## Alpha test!
 
 __Attention__: it's alpha test version.
 
