@@ -50,7 +50,8 @@ IE <=8
 - Some bug in firefox with page scrollbar when mouse over image
 
 ## Depends
-jquery.tie
+- jquery
+- jquery.tie
 
 ## Author
 Performed by [@morulus](https://github.com/morulus)
