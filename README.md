@@ -50,4 +50,4 @@ IE <=8
 - Some bug in firefox with page scrollbar when mouse over image
 
 # Author
-Performed by Vladimir Kalmykov ([@morulus](https://github.com/morulus))
+Performed by [@morulus](https://github.com/morulus)
