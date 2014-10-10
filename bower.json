@@ -11,7 +11,7 @@
     },
     "devDependencies": {
     },
-    "homepage": "https://github.com/morulus/jquery.uzoom",
+    "homepage": "https://github.com/morulus/jquery.uzoom/",
     "keywords": [
         "jquery"
     ], 
@@ -19,5 +19,5 @@
         "name": "Vladimir Kalmykov",
         "web": "https://github.com/morulus"
     },
-    "license": "MIT",
+    "license": "MIT"
 }
